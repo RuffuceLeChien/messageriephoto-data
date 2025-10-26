@@ -1,10 +1,11 @@
 {
   "messages": [],
   "passwords": [
-    "motdepasse123"
+    "soeur jumelle",
+    "crush"
   ],
   "counters": {
-    "admin": 1,
+    "admin": 0,
     "user": 0
   }
 }
